@@ -1,16 +1,80 @@
 
-# 💫 About Me:
-🎓 I’m a B.Tech 2nd-year student<br>💻 I’m currently learning C++ & Data Structures and Algorithms<br>🚀 I’m building my programming and problem-solving skills<br>🤝 I’m looking to collaborate on beginner-friendly projects<br>🌱 I’m currently learning and exploring new technologies<br>⚡ Fun fact: I enjoy learning by building things
 
+# 👋 Hi, I'm Lakshay Ahuja
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Uber](https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=lakshayahuja764-ship-it&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=lakshayahuja764-ship-it&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=lakshayahuja764-ship-it&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+🎓 B.Tech Computer Science Student  
+💻 Learning C++, DSA & Python  
+🚀 Exploring Software Development, AWS & AI  
+🌱 Always learning and building new things
 
 ---
-[![](https://komarev.com/ghpvc/?username=lakshayahuja764-ship-it&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I'm a B.Tech Computer Science student at Graphic Era, currently focused on building a strong foundation in programming and software development.
+
+- 🔭 Currently working on improving my programming skills
+- 🌱 Learning **C++, Data Structures & Algorithms and Python**
+- ☁️ Exploring **AWS and Cloud Technologies**
+- 🤖 Interested in **AI and emerging technologies**
+- 💡 Enjoy solving problems and building projects
+- 🎯 Goal: Become a skilled Software Developer
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Technologies
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Currently Learning
+- 📚 Data Structures & Algorithms
+- 💻 C++
+- 🐍 Python
+- ☁️ AWS
+- 🤖 AI & Machine Learning
+
+---
+
+## 📌 Featured Projects
+
+> 🚧 More projects coming soon!
+
+- 🔹 **DSA Practice** — C++ implementations of common data structures and algorithms
+- 🔹 **Python Projects** — Small projects built while learning Python
+- 🔹 **Academic Projects** — Projects developed during my B.Tech journey
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lakshyahuja76-ship-it&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyahuja76-ship-it&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=lakshyahuja76-ship-it&theme=tokyonight&hide_border=true)
+
+---
+
+## 🤝 Connect With Me
+
+💼 **LinkedIn:**  
+https://www.linkedin.com/in/lakshay-ahuja-035502377/
+
+💻 **GitHub:**  
+https://github.com/lakshyahuja76-ship-it
+
+---
+
+⭐ *Thanks for visiting my profile!*
