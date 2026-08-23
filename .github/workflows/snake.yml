@@ -1,4 +1,3 @@
-
 name: Generate Snake
 
 on:
@@ -12,18 +11,20 @@ permissions:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
 
     steps:
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: lakshyahuja76-ship-it
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Deploy Snake
-        uses: crazy-max/ghaction-github-pages@v3
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           build_dir: dist
           target_branch: output
